@@ -11,7 +11,7 @@ I believe open-source collaboration is essential for advancing AI responsibly an
 
 ### 1. YingMusic-SVC
 
-Repository: https://github.com/iamgrootns/YingMusic-SVC
+Repository: https://github.com/GiantAILab/YingMusic-SVC
 
 This is a project I created and maintain, focused on AI-driven music and voice synthesis experimentation.
 It reflects my work in model integration, experimentation, and applied ML tooling.
